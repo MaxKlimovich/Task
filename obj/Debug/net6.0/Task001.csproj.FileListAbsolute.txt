@@ -1,0 +1,15 @@
+/Users/Maksim/Documents/Developer/C#/2 Example Practice /2 Example practice/Task001/bin/Debug/net6.0/Task001
+/Users/Maksim/Documents/Developer/C#/2 Example Practice /2 Example practice/Task001/bin/Debug/net6.0/Task001.deps.json
+/Users/Maksim/Documents/Developer/C#/2 Example Practice /2 Example practice/Task001/bin/Debug/net6.0/Task001.runtimeconfig.json
+/Users/Maksim/Documents/Developer/C#/2 Example Practice /2 Example practice/Task001/bin/Debug/net6.0/Task001.dll
+/Users/Maksim/Documents/Developer/C#/2 Example Practice /2 Example practice/Task001/bin/Debug/net6.0/Task001.pdb
+/Users/Maksim/Documents/Developer/C#/2 Example Practice /2 Example practice/Task001/obj/Debug/net6.0/Task001.csproj.AssemblyReference.cache
+/Users/Maksim/Documents/Developer/C#/2 Example Practice /2 Example practice/Task001/obj/Debug/net6.0/Task001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Maksim/Documents/Developer/C#/2 Example Practice /2 Example practice/Task001/obj/Debug/net6.0/Task001.AssemblyInfoInputs.cache
+/Users/Maksim/Documents/Developer/C#/2 Example Practice /2 Example practice/Task001/obj/Debug/net6.0/Task001.AssemblyInfo.cs
+/Users/Maksim/Documents/Developer/C#/2 Example Practice /2 Example practice/Task001/obj/Debug/net6.0/Task001.csproj.CoreCompileInputs.cache
+/Users/Maksim/Documents/Developer/C#/2 Example Practice /2 Example practice/Task001/obj/Debug/net6.0/Task001.dll
+/Users/Maksim/Documents/Developer/C#/2 Example Practice /2 Example practice/Task001/obj/Debug/net6.0/refint/Task001.dll
+/Users/Maksim/Documents/Developer/C#/2 Example Practice /2 Example practice/Task001/obj/Debug/net6.0/Task001.pdb
+/Users/Maksim/Documents/Developer/C#/2 Example Practice /2 Example practice/Task001/obj/Debug/net6.0/Task001.genruntimeconfig.cache
+/Users/Maksim/Documents/Developer/C#/2 Example Practice /2 Example practice/Task001/obj/Debug/net6.0/ref/Task001.dll
